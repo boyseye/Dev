@@ -1,0 +1,56 @@
+a = 15
+b = 2
+c= a+b
+print(a,b,c)
+
+a = 15
+
+정수(Integer)
+실수(Floating Point)
+불런(Boolean)
+문자열(String)
+
+
+
+입력과 출력
+
+animal = input("좋아하는 동물을 입력하세요: ")
+
+print(animal)
+
+
+a=int(input("첫번째 정수를 입력하세요: "))
+
+b=int(input("두번째 정수를 입력하세요: "))
+
+c = a + b
+
+print(c)
+
+
+age = 16
+
+print("나의 나이는", age, "살입니다")
+
+
+num1 = "010"
+num2 = "1234"
+num3 = "4567"
+
+print(num1,num2,num3,sep="-")
+
+
+kor = 80
+eng = 85
+math = 92
+
+print("국어: %d, 영어: %d, 수학 : %d" %(kor,eng,math))
+
+
+
+
+
+
+
+
+
